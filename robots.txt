@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahrohwaiwu.bahni.uk/sitemap.xml
